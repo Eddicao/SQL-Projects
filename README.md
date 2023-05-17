@@ -1,1 +1,1 @@
-# Python-Projects
+# SQL Server Analysis Projects
